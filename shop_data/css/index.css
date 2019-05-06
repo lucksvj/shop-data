@@ -1,0 +1,28 @@
+.table-list{
+    table-layout: fixed;
+}
+.table-list input{
+    display: none;
+}
+.btn-ok,.btn-cancel{
+    display: none;
+}
+.table-list .btn-ok, .table-list .btn-cancel{
+    display: none;
+}
+.edit .btn-ok, .edit .btn-cancel{
+    display: inline-block;
+}
+.edit .btn-edit, .edit .btn-del{
+    display: none;
+}
+.edit span{
+    display: none;
+}
+.edit input{
+    display: inline-block;
+}
+
+.btn-shop{
+    margin-bottom: 50px;
+}
